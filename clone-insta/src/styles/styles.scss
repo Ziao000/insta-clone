@@ -1,0 +1,18 @@
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #2c3e50;
+  }
+  .card-element{
+    display: flex;
+    /* flex-direction: row; */
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 100%;
+  }
+  h1{
+    text-align: center;
+  }
+
+  // j'avoue ne pas avoir réussi à linker le css avec le App.vue
